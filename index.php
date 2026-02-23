@@ -35,3 +35,8 @@ if (!isset($_COOKIE['token'])) {
     <h1>Welcome, {user}</h1>
 </body>
 </html>
+
+
+
+
+?>
